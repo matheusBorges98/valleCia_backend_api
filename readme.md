@@ -8,6 +8,9 @@ Iniciando projeto:
 
 #npm start - Para iniciar a API.;
 
+#Retorno das requisições de acordo com padrões 
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status
+
 -->
 
 
